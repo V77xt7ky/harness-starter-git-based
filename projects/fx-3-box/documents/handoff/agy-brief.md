@@ -36,6 +36,30 @@ TRONG SYNTHESIS-agy.md, thêm mục "GIỚI HẠN NGUỒN": số video hội vi�
 KHÔNG LÀM: không đưa lời khuyên đầu tư, không viết thêm quy tắc không có trong video, không sửa các file khác trong repo.
 ```
 
+
+## Bản chỉ dùng chat (không cần repo) — khuyên dùng cho vòng 1
+Dùng đúng khối brief ở trên, nhưng **thay mục "ĐỊNH DẠNG ĐẦU RA" và "KHÔNG LÀM"** bằng khối này:
+
+```
+ĐỊNH DẠNG ĐẦU RA (trả ngay trong khung chat, không tạo file, không sửa repo)
+Trả về MỘT tin nhắn markdown gồm các phần, mỗi phần mở đầu bằng dòng phân cách đúng chính tả:
+
+=== INDEX ===
+Bảng: # | Tên video | Link | Ngày đăng | Loại (công khai / hội viên) | Trạng thái (đã xử lý / chưa xử lý / hội viên — không xử lý) | Lý do chọn hoặc bỏ qua
+
+=== FILE: NN-ten-ngan ===   (lặp lại cho từng video đã xử lý)
+Theo mẫu: Kênh · Link · Độ dài · Tóm tắt 3-5 dòng · Quy tắc (kèm mm:ss, gắn [TRÍCH NGUYÊN VĂN] hoặc [DIỄN GIẢI]) · Ví dụ chart/lệnh (kể cả thua/không vào) · Dấu hiệu bán hàng/cam kết · Câu trả lời a)–g)
+
+=== FILE: SYNTHESIS-agy ===
+Dòng đầu: "Bản tổng hợp của Agy — CHƯA kiểm chứng". Rồi: bảng gộp (chủ đề | video nào nói gì | mâu thuẫn) · CÁC CHỖ MƠ HỒ / CẦN HỎI CHỦ KÊNH · GIỚI HẠN NGUỒN (video hội viên bị bỏ qua kèm tên; chủ đề chỉ nhắc mà không giải thích).
+
+Nếu tin nhắn quá dài, chia nhiều tin, mỗi tin bắt đầu bằng đúng dòng phân cách ở trên.
+
+KHÔNG LÀM: không đưa lời khuyên đầu tư, không viết thêm quy tắc không có trong video.
+```
+
+**Gửi kết quả về cho Claude:** copy toàn bộ phản hồi của Agy, dán vào chat này (nhiều tin thì dán lần lượt). Claude sẽ tách theo dòng `=== FILE ===`, lưu vào `sources/` và chấm vòng 1.
+
 ## Ghi chú cho Owner
 - **Đừng đưa quy trình sell/buy của bạn (mục 7b) cho Agy ở vòng này.** Nếu Agy biết trước bạn làm gì, nó dễ "chọn lọc" cho khớp. Ta so sánh sau, để thấy video thật sự nói gì và bạn đang làm khác chỗ nào.
 - Nếu Agy không push được vào repo, bạn copy file nó tạo vào `projects/fx-3-box/sources/` rồi báo tôi.
