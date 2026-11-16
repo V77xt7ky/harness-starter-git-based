@@ -36,5 +36,24 @@
 ## 7. Ví dụ đã kiểm chứng
 Xem [`../journal/trades.md`](../journal/trades.md).
 
+## 7b. Quy trình thực tế của Owner (CHƯA kiểm chứng, chưa đối chiếu video)
+Nguồn: lời kể của Owner, 2026-11-16. Chart: `../images/ref_XAUUSD_H1_5-boxes_sell-limit.png`.
+
+**Dựng hộp:** vẽ lần lượt các hộp theo xu hướng giảm (hộp 1 → hộp 5...), mỗi hộp là vùng đi ngang/hồi giữa hai nhịp giảm. Vùng **"móc xích"** = vùng giá kết nối giữa hai hộp liền kề (vd giữa hộp 4 và hộp 5).
+
+**SELL (+3R):** vào ở **đỉnh hộp 5**, sau chuỗi tín hiệu:
+1. Nến đỏ lớn đi **vào trong** hộp.
+2. Một nến doji xanh từ chối vùng giá đỉnh trước.
+3. Một nến kiểu "dọi" (Owner viết "dọi bia bộ" — *cần Owner làm rõ: pin bar? shooting star?*).
+4. Một nến thân ngắn nhưng "full lực", gần như không râu, từ chối vùng **móc xích giữa hộp 4 và 5**.
+TP: **đáy hộp**.
+
+**BUY (+1R):** vào ngay tại **TP của lệnh sell (đáy hộp)**, TP ở **50% hộp**.
+
+**Chỉ báo phụ (phương pháp cũ của Owner, không thuộc phương pháp video):** 2 MA, RSI(8), Volume.
+
+**Chưa rõ / cần Owner chốt:** định nghĩa chính xác đỉnh/đáy hộp (theo râu hay thân nến?), SL đặt ở đâu cho sell và buy, buy có điều kiện xác nhận riêng hay mua thẳng tại đáy hộp.
+
 ## 8. Lịch sử thay đổi
+- 2026-11-16: thêm mục 7b — quy trình thực tế của Owner.
 - 2026-11-16: tạo khung.

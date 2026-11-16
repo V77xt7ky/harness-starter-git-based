@@ -61,3 +61,13 @@
 4. Hai lệnh đã lãi: cặp, ngày, entry/SL/TP — và lệnh buy +1R ở hộp xanh cuối vào theo tín hiệu gì?
 5. Bạn có dữ liệu giá lịch sử (xuất CSV từ MT5) để backtest không?
 6. Chọn hướng A, B hay C?
+
+## 9. Quyết định của Owner (2026-11-16)
+- **Hướng:** A (NotebookLM trước).
+- **Phạm vi:** nhiều cặp về lâu dài, nhưng **giai đoạn đầu chỉ XAUUSD và BTC, khung H1**; mở rộng nếu video có hướng dẫn thêm.
+- **"Hộp":** Owner vẽ lần lượt theo xu hướng giảm để tính điểm sell (chart ref có 5 hộp = chuỗi hộp liên tiếp, không phải đúng 3).
+- **MA / RSI / Volume:** là phương pháp cũ của Owner, gắn thêm để có góc nhìn khác — **không** coi là một phần của phương pháp 3 hộp từ video.
+- **Dữ liệu giá CSV:** có thể có, chưa nghiên cứu kỹ cách xuất.
+- **Video đối chiếu 1:** https://www.youtube.com/watch?v=fpukx0NRbhw (Owner xem hôm qua, áp dụng hôm nay).
+- **Bài Facebook:** https://www.facebook.com/share/p/1DY5FeWJzE/ (kèm video).
+- ⚠️ Phiên này không truy cập được youtube.com và facebook.com (mạng bị chặn) → chưa đọc được 2 nguồn trên. Hướng A giải quyết việc này: NotebookLM đọc video, Facebook cần Owner dán nội dung/transcript.
