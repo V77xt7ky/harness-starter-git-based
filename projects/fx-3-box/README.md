@@ -10,6 +10,8 @@ Dự án **nghiên cứu & tổng hợp** (không phải code): gom kiến thứ
 
 ```
 documents/
+  plan.md            ← kế hoạch + phân công (NotebookLM/Agy/Claude) + câu hỏi mở
+  handoff/           ← prompt giao việc cho NotebookLM / Agy
   method.md          ← tài liệu phương pháp (bản sống, sẽ hợp nhất dần)
   glossary.md        ← thuật ngữ: hộp, R, SL, TP...
   open-questions.md  ← chỗ video mâu thuẫn / chưa rõ, cần Owner chốt
