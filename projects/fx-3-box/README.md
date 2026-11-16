@@ -20,6 +20,7 @@ sources/
   _template.md       ← mẫu ghi chú 1 video
 journal/
   trades.md          ← nhật ký lệnh (cả lệnh thắng lẫn thua)
+review/              ← phản biện của Claude trên đầu ra Agy/NotebookLM (quy trình trong review/README.md)
 images/              ← ảnh chart minh hoạ (đặt tên theo lệnh: 2026-11-xx_pair_buy.png)
 ```
 
