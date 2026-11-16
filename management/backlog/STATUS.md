@@ -11,6 +11,7 @@
 | ID | Title | Priority | Status | Agents |
 |----|-------|----------|--------|--------|
 | [0001](0001-example-settings-screen.md) | Add a settings screen to the web app *(example ticket — delete when you start)* | Medium | Open — worked example showing the template | app |
+| [0002](0002-fx-3-box-method.md) | Tổng hợp phương pháp trade FX "3 hộp" từ video YouTube | Medium | Open — chờ ảnh + link video từ Owner | research |
 
 ## Awaiting Owner — commit / deploy / review / decision
 
