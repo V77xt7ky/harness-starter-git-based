@@ -16,5 +16,8 @@ Owner thử phương pháp "3 hộp" từ một kênh YouTube: 2 lệnh có lãi
 2. **Phase 2 — hợp nhất:** đối chiếu các video, điền `method.md`, đẩy mâu thuẫn vào `open-questions.md`.
 3. **Phase 3 — kiểm chứng:** backtest tay theo checklist + ghi nhật ký; (tuỳ chọn) script backtest nếu có dữ liệu giá.
 
+## Quy trình
+Chi tiết G0→G6: `projects/fx-3-box/documents/research-process.md`.
+
 ## Outcome
 <!-- filled per phase as work lands -->

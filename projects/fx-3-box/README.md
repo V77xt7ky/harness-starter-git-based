@@ -10,6 +10,7 @@ Dự án **nghiên cứu & tổng hợp** (không phải code): gom kiến thứ
 
 ```
 documents/
+  research-process.md ← quy trình nghiên cứu hoàn chỉnh (G0→G6, vai trò, cổng, ngưỡng kết luận)
   plan.md            ← kế hoạch + phân công (NotebookLM/Agy/Claude) + câu hỏi mở
   handoff/           ← prompt giao việc cho NotebookLM / Agy
   method.md          ← tài liệu phương pháp (bản sống, sẽ hợp nhất dần)
